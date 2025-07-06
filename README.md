@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repositry
 <hr>
-Author - aamir
+Author - aamir(raichur)
